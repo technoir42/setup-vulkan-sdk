@@ -51,6 +51,7 @@ However, depending on your project's needs, it might make more sense to use unat
     - `SPIRV-Tools` - [KhronosGroup/SPIRV-Tools](https://github.com/KhronosGroup/SPIRV-Tools)
     - `SPIRV-Reflect` - [KhronosGroup/SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect)
     - `SPIRV-Headers` - [KhronosGroup/SPIRV-Headers](https://github.com/KhronosGroup/SPIRV-Headers)
+    - `Volk` - [zeux/volk](https://github.com/zeux/volk)
 
 - Officially supported release numbers can be found here: https://vulkan.lunarg.com/sdk/home
 - Documentation on querying config.json SDK specs can be found here: https://vulkan.lunarg.com/content/view/latest-sdk-version-api
